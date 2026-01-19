@@ -44,7 +44,7 @@ The dataset is realistic and well-structured, making it ideal for practicing dat
 - **Pandas**
 - **NumPy**
 - **Matplotlib**
-- **Spyder IDE**
+- **Google Colab**
 
 ---
 
